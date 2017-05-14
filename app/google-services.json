@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "852911375764",
+    "firebase_url": "https://datasync-a2e4a.firebaseio.com",
+    "project_id": "datasync-a2e4a",
+    "storage_bucket": "datasync-a2e4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852911375764:android:d9aeb392e2ba0ffb",
+        "android_client_info": {
+          "package_name": "com.tricktekno.datasync"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852911375764-vcu423kvkdttnpue6qecjiges9ao8reo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tricktekno.datasync",
+            "certificate_hash": "c0af3c00f54cb7cb6c8477430e1f081399f926a7"
+          }
+        },
+        {
+          "client_id": "852911375764-jacddervfl2boumq08237lknsfpmsd0q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYTiiwfZxMURNjh45HN_OarpOtc0t8VEY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852911375764-jacddervfl2boumq08237lknsfpmsd0q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
